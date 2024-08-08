@@ -4,3 +4,4 @@ transformers
 numpy
 jupyterlab
 ipywidgets
+datasets
